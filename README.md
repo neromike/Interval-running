@@ -1,1 +1,1 @@
-A Apache-Cordova based app that provides a very streamlined and easy to use timer to facilitate interval running.
+An Apache-Cordova based app that provides a very streamlined and easy to use timer to facilitate interval running.
