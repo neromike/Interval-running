@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.neromike.intervalrun" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.neromike.intervalrun" version="1.0.0" android-versionCode="2" ios-CFBundleVersion="2" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Interval running</name>
     <description>
         A Apache-Cordova based app that provides a very streamlined and easy to use timer to facilitate interval running.
