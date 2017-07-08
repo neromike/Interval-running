@@ -575,6 +575,19 @@ body {
 
 
 
+<script>
+function initApp() {
+	AdMob.createBanner({
+		adId : ca-app-pub-4754925849039958/8787108213,
+		position : AdMob.AD_POSITION.BOTTOM_CENTER,
+		autoShow : true
+	});
+};
+document.addEventListener('deviceready', initApp, false);
+</script>
+
+
+
 <script src="bootstrap-4.0.0-alpha.6-dist/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="cordova.js"></script>
 <!--<script type="text/javascript" src="js/index.js"></script>
